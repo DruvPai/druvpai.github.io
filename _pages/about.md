@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I am fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/).  I am affiliated with [BAIR](https://bair.berkeley.edu/) and am supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I am fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/).  I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
 
 My research interests broadly lie in <b>simplifying deep learning</b>. More specifically, I am interested in <i>developing theory to understand, improve, and simplify empirical deep learning methodology</i>. I work on this problem through the following research threads:
 - understanding the latent representations learned by modern deep neural networks;
