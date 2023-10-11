@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I am fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/).  I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/).  I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
 
-My research interests broadly lie in <b>simplifying deep learning</b>. More specifically, I am interested in <i>developing theory to understand, improve, and simplify empirical deep learning methodology</i>. I work on this problem through the following research threads:
+My research interests broadly lie in <b>simplifying deep learning</b>. More specifically, I'm interested in <i>developing theory to understand, improve, and simplify empirical deep learning methodology</i>. I work on this problem through the following research threads:
 - understanding the latent representations learned by modern deep neural networks;
 - connecting modern deep learning practice to classical signal processing and statistics;
 - and leveraging such-obtained conceptual insights to design interpretable, efficient, and principled learning algorithms.
 
-I am particularly interested in problem instances where data is high-dimensional yet has rich structure, such as computer vision, natural language processing, and multi-modal contexts.
+I'm particularly interested in problem instances where data is high-dimensional yet has rich structure, such as computer vision, natural language processing, and multi-modal contexts.
 
 In my free time, I play basketball, chess, and TFT, and read sci-fi novels.
 
@@ -24,7 +24,7 @@ In my free time, I play basketball, chess, and TFT, and read sci-fi novels.
     <summary><i>Notes for undergraduate and masters students.</i></summary>
     <br/>
 
-    <i>Note 1:</i> I am happy to chat about my research or general advising. Please send me an email and we can work out a time. 
+    <i>Note 1:</i> I'm happy to chat about my research or general advising. Please send me an email and we can work out a time. 
     <br/>
     <br/>
 
