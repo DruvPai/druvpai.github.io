@@ -7,53 +7,38 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+* B.S. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
+* M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
+* Ph.D in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2023 - ?
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Industry Experience
+* Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
+* Summer 2019: Machine Learning Engineer Intern @ [SymphonyAI](https://www.symphonyai.com/)
+  
+## Programming Languages, Frameworks, and Tools
+* Python, Java, C++, C, x86, Julia
+* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/)
+* Git, Linux, \*sh
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Publications
+Discussed in more detail in my [publications page](./publications.md).
+  
+## Invited Talks, Presentations, and Posters
+- Presented on "White-Box Transformers" @ [MoDL Annual Meeting](https://www.simonsfoundation.org/event/mathematical-and-scientific-foundations-of-deep-learning-annual-meeting-2023/), September 28-29, 2023.
+- Presented on "White-Box Transformers" @ [ANSR Weekly Meeting](https://www.darpa.mil/program/assured-neuro-symbolic-learning-and-reasoning), September 1, 2023.
+- Presented on "White-Box Transformers" @ [Tsao Lab](https://tsaolab.berkeley.edu/) Reading Group, September 13, 2023.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+NB: This section only has talks, presentations, and posters not disclosed in my  [publications page](./publications.md).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Teaching
+Discussed in more detail in my [teaching page](./teaching.md).
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service, Leadership, Outreach
+- Participated in the BAIR Undergraduate Mentorship Program, Fall 2023.
+- Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
+
+## Awards 
+- UC Berkeley College of Engineering Fellowship, 2023.
+

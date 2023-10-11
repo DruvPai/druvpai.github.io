@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Druv Pai"
 title_separator          : "-"
 name                     : &name "Druv Pai"
-description              : &description "PhD student at UC Berkeley trying to simplify deep learning."
+description              : &description "Ph.D. student at UC Berkeley trying to simplify deep learning."
 url                      : https://druvpai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/personal_website" # the subpath of your site, e.g. "/blog"
 repository               : "DruvPai/personal_website"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Druv Pai"
-  avatar           : "profile.png"
-  bio              : "PhD student @ UC Berkeley trying to simplify deep learning."
+  avatar           : "druv_pic.jpg"
+  bio              : "Ph.D. student @ UC Berkeley trying to simplify deep learning."
   location         : "Bay Area, CA, USA"
   employer         :
   pubmed           : 
