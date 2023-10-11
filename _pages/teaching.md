@@ -21,8 +21,8 @@ I have been fortunate to be on course staff for three separate courses, all offe
 ---
 
 In the course of the above appointments, I earned the following awards:
-- In 2022, I was given the UC Berkeley Outstanding Graduate Student Instructor Award (roughly 60 participants/year).
-- In 2023, I was given the UC Berkeley EECS Department Outstanding TA Award (roughly 5 participants/year).
+- In 2022, I was given the UC Berkeley Outstanding Graduate Student Instructor Award (~60 recipients/year).
+- In 2023, I was given the UC Berkeley EECS Department Outstanding TA Award (~5 recipients/year).
 
 ---
 

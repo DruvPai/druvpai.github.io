@@ -29,7 +29,7 @@ Discussed in more detail in my [publications page](./publications.md).
 - Presented on "White-Box Transformers" @ [ANSR Weekly Meeting](https://www.darpa.mil/program/assured-neuro-symbolic-learning-and-reasoning), September 1, 2023.
 - Presented on "White-Box Transformers" @ [Tsao Lab](https://tsaolab.berkeley.edu/) Reading Group, September 13, 2023.
 
-NB: This section only has talks, presentations, and posters not disclosed in my  [publications page](./publications.md).
+NB: This section only has talks, presentations, and posters not disclosed in my [publications page](./publications.md).
 
   
 ## Teaching
@@ -42,3 +42,4 @@ Discussed in more detail in my [teaching page](./teaching.md).
 ## Awards 
 - UC Berkeley College of Engineering Fellowship, 2023.
 
+NB: This section only has awards not disclosed in my [publications page](./publications.md) or [teaching page](./teaching.md).
