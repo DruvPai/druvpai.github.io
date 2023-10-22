@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-* B.S. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
+* B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 * M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
 * Ph.D in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2023 - ?
 
