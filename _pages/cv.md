@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Education
-* B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
-* M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
 * Ph.D in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2023 - ?
+* M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
+* B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 
 ## Industry Experience
 * Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
