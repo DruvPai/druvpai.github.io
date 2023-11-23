@@ -5,15 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<u>Masked Autoencoding via Structured Diffusion with White-Box Transformers</u>
+[White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/abs/2311.13110)
+<br> Yaodong Yu, Sam Buchanan, **Druv Pai**, Tianzhe Chu, Ziyang Wu, Shengbang Tong, Hao Bai, Yuexiang Zhai, Benjamin Haeffele, Yi Ma
+<br> <i>In review at JMLR</i>
+
+---
+
+<u>Masked Completion via Structured Diffusion with White-Box Transformers</u>
 <br> **Druv Pai**, Sam Buchanan, Ziyang Wu, Tianzhe Chu, Yaodong Yu, Yi Ma 
-<br> <i>In review at ICLR 2024 and CPAL 2024 (non-archival track)</i>
+<br> <i>In review at ICLR 2024, accepted at CPAL 2024 (non-archival track)</i>
 
 ---
 
 [Emergence of Segmentation with Minimalistic White-Box Transformers](https://arxiv.org/abs/2308.16271)
 <br> Yaodong Yu, Tianzhe Chu, Shengbang Tong, Ziyang Wu, **Druv Pai**, Sam Buchanan, Yi Ma
-<br> <i>In review at CPAL 2024</i>
+<br> <i>Accepted (oral) at CPAL 2024</i>
 <br> [project website](https://ma-lab-berkeley.github.io/CRATE/) - [code](https://github.com/Ma-Lab-Berkeley/CRATE)
 
 ---
@@ -34,7 +40,7 @@ author_profile: true
 
 [Closed-Loop Transcription via Convolutional Sparse Coding](https://arxiv.org/abs/2302.09347)
 <br> Xili Dai, Ke Chen, Shengbang Tong, Jingyuan Zhang, Xingjian Gao, Mingyang Li, **Druv Pai**, Yuexiang Zhai, Xiaojun Yuan, Heung-Yeung Shum, Lionel Ni, Yi Ma 
-<br> <i> Accepted (poster) at SLowDNN 2023, in review at CPAL 2024</i>
+<br> <i> Accepted (poster) at SLowDNN 2023, accepted (oral) at CPAL 2024</i>
 
 ---
 
