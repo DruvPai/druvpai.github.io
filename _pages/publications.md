@@ -11,9 +11,10 @@ author_profile: true
 
 ---
 
-<u>Masked Completion via Structured Diffusion with White-Box Transformers</u>
+[Masked Completion via Structured Diffusion with White-Box Transformers](https://openreview.net/forum?id=muoEgWUZiS)
 <br> **Druv Pai**, Sam Buchanan, Ziyang Wu, Tianzhe Chu, Yaodong Yu, Yi Ma 
-<br> <i>In review at ICLR 2024, accepted at CPAL 2024 (non-archival track)</i>
+<br> <i> Accepted at ICLR 2024, accepted at CPAL 2024 (non-archival track)</i>
+<br> [project website](https://ma-lab-berkeley.github.io/CRATE/) - [code](https://github.com/Ma-Lab-Berkeley/CRATE)
 
 ---
 

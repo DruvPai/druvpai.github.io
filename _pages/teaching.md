@@ -8,7 +8,7 @@ author_profile: true
 I have been fortunate to be on course staff for three separate courses, all offered by the EECS department at UC Berkeley. These were:
 - EE 127 (Optimization Models In Engineering).
     - The course is a first course in optimization theory and practice, teaching the fundamentals of convexity, unconstrained optimization, constrained optimization, duality, linear and quadratic programming, and various applications. 
-    - I was a Discussion TA in [Fall 2020](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001) and the Head Content TA in [Fall 2022](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001) and [Spring 2023](https://classes.berkeley.edu/content/2023-spring-eecs-127-001-lec-001).
+    - I was a Discussion TA in [Fall 2020](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001) and the Head Content TA in [Fall 2022](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001), [Spring 2023](https://classes.berkeley.edu/content/2023-spring-eecs-127-001-lec-001), and [Spring 2024](https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001).
 
 - EE 16B (Designing Information Systems and Devices II).
     - The course is a second course in linear algebra for engineers and a survey course for many sub-fields of electrical engineering, such as circuits, device physics, control theory, signal processing, and data analysis. 
