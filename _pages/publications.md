@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<u>A Geometric Analysis of Maximal Coding Rate Reduction</u>
+<br> Peng Wang, Huikang Liu, **Druv Pai**, Yaodong Yu, Zhihui Zhu, Qing Qu, Yi Ma
+<br> <i>In review at ICML 2024</i>
+
+---
+
 [White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/abs/2311.13110)
 <br> Yaodong Yu, Sam Buchanan, **Druv Pai**, Tianzhe Chu, Ziyang Wu, Shengbang Tong, Hao Bai, Yuexiang Zhai, Benjamin Haeffele, Yi Ma
 <br> <i>In review at JMLR</i>
@@ -34,7 +40,7 @@ author_profile: true
 
 [Representation Learning via Manifold Flattening and Reconstruction](https://arxiv.org/abs/2305.01777)
 <br> Michael Psenka, **Druv Pai**, Vishal Raman, Shankar Sastry, Yi Ma 
-<br> <i> Accepted (poster) at SLowDNN 2023, in review at JMLR</i>
+<br> <i> Accepted (poster) at SLowDNN 2023, accepted at JMLR</i>
 <br> [project website](https://www.michaelpsenka.io/papers/flatteningnetwork/) - [code](https://github.com/michael-psenka/manifold-linearization)
 
 ---
