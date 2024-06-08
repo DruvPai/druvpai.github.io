@@ -5,15 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-<u>A Geometric Analysis of Maximal Coding Rate Reduction</u>
+<u>Token Statistics Transformer: Linear Time Attention via Variational Rate Reduction</u>
+<br> Ziyang Wu, Tianjiao Ding, **Druv Pai**, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin Haeffele
+<br> <i>In review at NeurIPS 2024</i>
+
+---
+
+[Scaling White-Box Transformers for Vision](https://arxiv.org/abs/2405.20299)
+<br> Jinrui Yang, Xianhang Li, **Druv Pai**, Yuyin Zhou, Yi Ma, Yaodong Yu, Cihang Xie
+<br> <i>In review at NeurIPS 2024</i>
+<br> [project website](https://rayjryang.github.io/CRATE-alpha/) - [code](https://github.com/UCSC-VLAA/CRATE-alpha)
+
+---
+
+[A Geometric Analysis of Maximal Coding Rate Reduction](https://arxiv.org/abs/2406.01909)
 <br> Peng Wang, Huikang Liu, **Druv Pai**, Yaodong Yu, Zhihui Zhu, Qing Qu, Yi Ma
-<br> <i>In review at ICML 2024</i>
+<br> <i>Accepted at ICML 2024</i>
 
 ---
 
 [White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/abs/2311.13110)
 <br> Yaodong Yu, Sam Buchanan, **Druv Pai**, Tianzhe Chu, Ziyang Wu, Shengbang Tong, Hao Bai, Yuexiang Zhai, Benjamin Haeffele, Yi Ma
-<br> <i>In review at JMLR</i>
+<br> <i>Accepted at JMLR</i>
+<br> [project website](https://ma-lab-berkeley.github.io/CRATE/) - [code](https://github.com/Ma-Lab-Berkeley/CRATE)
 
 ---
 
@@ -21,6 +35,11 @@ author_profile: true
 <br> **Druv Pai**, Sam Buchanan, Ziyang Wu, Tianzhe Chu, Yaodong Yu, Yi Ma 
 <br> <i> Accepted at ICLR 2024, accepted at CPAL 2024 (non-archival track)</i>
 <br> [project website](https://ma-lab-berkeley.github.io/CRATE/) - [code](https://github.com/Ma-Lab-Berkeley/CRATE)
+
+---
+
+[Congestion Pricing for Efficiency and Equity: Theory and Applications to the San Francisco Bay Area](https://arxiv.org/abs/2401.16844)
+<br>Chinmay Maheshwari, Kshitij Kulkarni, Druv Pai, Jiarui Yang, Manxi Wu, Shankar Sastry
 
 ---
 

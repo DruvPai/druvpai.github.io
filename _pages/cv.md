@@ -13,6 +13,7 @@ redirect_from:
 * B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 
 ## Industry Experience
+* Summer 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
 * Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
 * Summer 2019: Machine Learning Engineer Intern @ [SymphonyAI](https://www.symphonyai.com/)
   
@@ -38,6 +39,10 @@ Discussed in more detail in my [teaching page](./teaching.md).
 ## Service, Leadership, Outreach
 - Participated in the BAIR Undergraduate Mentorship Program, Fall 2023.
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
+- Reviewer for the following publication venues:
+  - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
+  - NeurIPS 2024
+  - ICML 2024
 
 ## Awards 
 - UC Berkeley College of Engineering Fellowship, 2023.
