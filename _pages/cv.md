@@ -26,6 +26,8 @@ redirect_from:
 Discussed in more detail in my [publications page](./publications.md).
   
 ## Invited Talks, Presentations, and Posters
+- Presented on "White-Box Transformers, Structured Denoising-Diffusion, and Closed-Loop Transcription" @ ICASSP Tutorial 2024, April 14, 2024.
+- Presented on "White-Box Transformers and Closed-Loop Transcription" @ Laplace Reading Group, Google Brain, April 11, 2024.
 - Presented on "White-Box Transformers" @ [MoDL Annual Meeting](https://www.simonsfoundation.org/event/mathematical-and-scientific-foundations-of-deep-learning-annual-meeting-2023/), September 28-29, 2023.
 - Presented on "White-Box Transformers" @ [ANSR Weekly Meeting](https://www.darpa.mil/program/assured-neuro-symbolic-learning-and-reasoning), September 1, 2023.
 - Presented on "White-Box Transformers" @ [Tsao Lab](https://tsaolab.berkeley.edu/) Reading Group, September 13, 2023.
