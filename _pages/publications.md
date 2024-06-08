@@ -39,7 +39,7 @@ author_profile: true
 ---
 
 [Congestion Pricing for Efficiency and Equity: Theory and Applications to the San Francisco Bay Area](https://arxiv.org/abs/2401.16844)
-<br>Chinmay Maheshwari, Kshitij Kulkarni, Druv Pai, Jiarui Yang, Manxi Wu, Shankar Sastry
+<br>Chinmay Maheshwari, Kshitij Kulkarni, **Druv Pai**, Jiarui Yang, Manxi Wu, Shankar Sastry
 
 ---
 
