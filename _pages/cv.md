@@ -19,7 +19,7 @@ redirect_from:
   
 ## Programming Languages, Frameworks, and Tools
 * Python, Java, C++, C, x86, Julia
-* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/)
+* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch)
 * Git, Linux, \*sh
 
 ## Publications
@@ -42,11 +42,16 @@ Discussed in more detail in my [teaching page](./teaching.md).
 - Participated in the BAIR Undergraduate Mentorship Program, Fall 2023.
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
 - Reviewer for the following publication venues:
-  - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
-  - NeurIPS 2024
-  - ICML 2024
+  - Conferences and Workshops
+    - AISTATS 2025
+    - ICLR 2025 
+    - NeurIPS 2024
+    - NeurIPS 2024 Workshops: M3L, SciForDL
+    - ICML 2024
+  - Journals
+    - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
 
 ## Awards 
-- UC Berkeley College of Engineering Fellowship, 2023.
+- UC Berkeley College of Engineering Fellowship, 2023, 2024.
 
 NB: This section only has awards not disclosed in my [publications page](./publications.md) or [teaching page](./teaching.md).
