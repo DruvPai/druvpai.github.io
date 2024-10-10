@@ -5,7 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have been fortunate to be on course staff for three separate courses, all offered by the EECS department at UC Berkeley. These were:
+I have been fortunate to be on course staff for four separate courses, all offered by the EECS department at UC Berkeley. These were:
+- EE 226A (Random Processes in Systems).
+    - The course is a graduate course in probability and stochastic processes, teaching the fundamentals of measure-theoretic probability, stochastic state-space models, Markov processes, martingales, and other stochastic processes. 
+    - I am currently the sole TA in [Fall 2024](https://classes.berkeley.edu/content/2024-fall-eleng-226a-001-lec-001).
+
 - EE 127 (Optimization Models In Engineering).
     - The course is a first course in optimization theory and practice, teaching the fundamentals of convexity, unconstrained optimization, constrained optimization, duality, linear and quadratic programming, and various applications. 
     - I was a Discussion TA in [Fall 2020](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001) and the Head Content TA in [Fall 2022](https://classes.berkeley.edu/content/2020-fall-eecs-127-001-lec-001), [Spring 2023](https://classes.berkeley.edu/content/2023-spring-eecs-127-001-lec-001), and [Spring 2024](https://classes.berkeley.edu/content/2024-spring-eecs-127-001-lec-001).
