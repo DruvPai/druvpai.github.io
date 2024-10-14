@@ -11,8 +11,8 @@ redirect_from:
 Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
 
 My research interests broadly lie in <b>developing theory for large-scale empirical deep learning methodology</b>. I work on this problem through the following intertwined threads:
-- <i>Finding theoretical principles that are relevant at large scales</i>. 
-- <i>Building theoretically principled solutions to machine learning problems at large scales</i>.
+- <i>Finding theoretical principles for deep learning that are relevant at large scales.</i>
+- <i>Using these principles to build large-scale deep learning systems.</i>
 
 I'm particularly interested in problem instances where data is high-dimensional yet has rich structure, such as computer vision and natural language processing, and how this structure interacts with mechanisms for representation and generation within deep neural networks.
 
