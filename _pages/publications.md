@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<u>Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs</u>
+[Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835)
 <br> Tianyu Guo, **Druv Pai**, Yu Bai, Jiantao Jiao, Michael Jordan, Song Mei
 <br> <i>In review at ICLR 2025</i>
 
