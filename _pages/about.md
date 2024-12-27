@@ -10,14 +10,12 @@ redirect_from:
 
 Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
 
-My research interests broadly lie in <b>developing theory for large-scale empirical deep learning methodology</b>. I work on this problem through the following intertwined threads:
-- <i>Finding theoretical principles for deep learning that are relevant at large scales.</i>
-- <i>Building theoretically principled deep learning systems at large scales.</i>
+My research interests broadly lie in <b>developing theoretically principled large-scale empirical deep learning methodology</b>. I work on building theoretical principles for existing approaches as well as developing new approaches from first principles. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments.
 
 I'm particularly interested in problem instances where data is high-dimensional yet has rich structure, such as computer vision and natural language processing, and how this structure interacts with mechanisms for representation and generation within deep neural networks.
 
 <details>
-    <summary><u>Here are some specific problems I'm interested in.</u></summary>
+    <summary><u>If this sounds too vague to you, here are some specific problems I'm interested in.</u></summary>
     <br/>
 
     <i>Large Language Models (LLMs)</i>: What concepts and algorithms do LLMs learn, and how are they represented mechanistically? How do approximate retrieval and approximate reasoning manifest in LLMs? How do the (pre-)training dynamics of LLMs adapt to the structure of the training data and produce high-level model behaviors?<br/>
@@ -46,12 +44,17 @@ I'm particularly interested in problem instances where data is high-dimensional 
     <br/>
     <br/>
 
-    <i>Note 2:</i> If you are interested in research collaboration, please send me an email with your background and specific interests (the more detailed, the better). Please include "[Research Collaboration Inquiry]" in your email title. The recommended time investment is at least 15 hours per week. Unfortunately, right now my schedule is tight and generally does not permit consistent long-term mentoring of younger students, so some degree of self-sufficiency would be highly valued. To ensure a more fruitful collaboration, it would be best to have the technical knowledge to read and understand deep learning papers, especially theory-oriented work. Thank you for your understanding.
+    <i>Note 2:</i> If you are interested in research collaboration, please send me an email with your background and specific interests (the more detailed, the better). Please mention what you would like to work on. Please include "[Research Collaboration Inquiry]" in your email title. The recommended time investment is at least 15 hours per week. Self-sufficiency is highly valued. To ensure a more fruitful collaboration, you should be able to read and understand deep learning papers, be comfortable with high-level linear algebra and probability, and be acquainted with either PyTorch or Jax. Thank you for your understanding.
+    <br/>
+    <br/>
+
+    <i>PS:</i> I try my best to reply to every serious inquiry about an advising chat or potential research collaboration. If you don't see a reply after, say, a week, feel free to bump the email thread. In return, if you're writing to ask to work with me, I ask that you really think about whether you are interested in the work and are willing to spend the time on it.
 </details>
 <br/>
 
 Recent Updates
 =====
+- (September 2024) Our paper [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835) was accepted (oral) to [NeurIPS 2024 M3L Workshop](https://sites.google.com/view/m3l-2024/).
 - (September 2024) Our paper [Scaling White-Box Transformers for Vision](https://arxiv.org/abs/2405.20299) was accepted to [NeurIPS 2024](https://neurips.cc/).
 - (May 2024) Started a summer research scientist internship at [NexusFlow](https://nexusflow.ai/).
 - (May 2024) Our new comprehensive paper [White-Box Transformers via Sparse Rate Reduction: Compression is all There Is?](https://arxiv.org/abs/2311.13110), reviewing our "White-Box Transformers" line of work: deriving efficient, interpretable, and performant transformer-like architectures from first-principles information theory and signal processing, was accepted to [JMLR](https://jmlr.org/).

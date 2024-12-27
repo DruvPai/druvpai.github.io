@@ -8,7 +8,7 @@ author_profile: true
 
 [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835)
 <br> Tianyu Guo, **Druv Pai**, Yu Bai, Jiantao Jiao, Michael Jordan, Song Mei
-<br> <i>In review at ICLR 2025</i>
+<br> <i>In review at ICLR 2025, accepted <b>(oral)</b> at NeurIPS M3L Workshop 2024</i>
 
 ---
 
@@ -18,7 +18,7 @@ author_profile: true
 
 ---
 
-<u>Token Statistics Transformer: Linear Time Attention via Variational Rate Reduction</u>
+[Token Statistics Transformer: Linear Time Attention via Variational Rate Reduction](https://arxiv.org/abs/2412.17810)
 <br> Ziyang Wu, Tianjiao Ding, **Druv Pai**, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin Haeffele
 <br> <i>In review at ICLR 2025</i>
 
