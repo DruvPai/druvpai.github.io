@@ -19,7 +19,7 @@ author_profile: true
 ---
 
 [Token Statistics Transformer: Linear Time Attention via Variational Rate Reduction](https://arxiv.org/abs/2412.17810)
-<br> Ziyang Wu, Tianjiao Ding, **Druv Pai**, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin Haeffele
+<br> Ziyang Wu, Tianjiao Ding, Yifu Lu, **Druv Pai**, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin Haeffele
 <br> <i>In review at ICLR 2025</i>
 
 ---
