@@ -44,12 +44,11 @@ Discussed in more detail in my [teaching page](./teaching.md).
 - Reviewer for the following publication venues:
   - Conferences and Workshops
     - AISTATS 2025
+    - CPAL 2025
     - ICLR 2025 
     - NeurIPS 2024
     - NeurIPS 2024 Workshops: M3L, SciForDL
     - ICML 2024
-    - ICLR 2025
-    - CPAL 2025
   - Journals
     - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
 
