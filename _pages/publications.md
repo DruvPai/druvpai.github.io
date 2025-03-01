@@ -5,22 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+
+[Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
+<br> Ziyang Wu, Jingyuan Zhang, **Druv Pai**, XuDong Wang, Chandan Singh, Jianwei Yang, Jianfeng Gao, Yi Ma
+<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
+
+
+--- 
+
 
 [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835)
 <br> Tianyu Guo, **Druv Pai**, Yu Bai, Jiantao Jiao, Michael Jordan, Song Mei
-<br> <i>In review at ICLR 2025, accepted <b>(oral)</b> at NeurIPS M3L Workshop 2024</i>
+<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track), accepted <b>(oral)</b> at NeurIPS M3L Workshop 2024</i>
 
 ---
 
 <u>Attention-Only Transformers via Unrolled Subspace Denoising</u>
 <br> Peng Wang, Yifu Lu, Yaodong Yu, **Druv Pai**, Qing Qu, Yi Ma
-<br> <i>In review at ICLR 2025</i>
+<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
 
 ---
 
 [Token Statistics Transformer: Linear Time Attention via Variational Rate Reduction](https://arxiv.org/abs/2412.17810)
 <br> Ziyang Wu, Tianjiao Ding, Yifu Lu, **Druv Pai**, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin Haeffele
-<br> <i>In review at ICLR 2025</i>
+<br> <i>Accepted <b>(spotlight)</b> at ICLR 2024</i>
+<br> [code](https://github.com/RobinWu218/ToST)
 
 ---
 
