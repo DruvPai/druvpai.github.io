@@ -37,6 +37,30 @@ My research interests broadly lie in <b>developing principled methodology for la
 </details>
 <br/>
 
+Selected Recent Work
+===
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%; vertical-align: top;">
+      <p><strong>White-Box Transformers via Sparse Rate Reduction: Compression is all There Is?</strong><br>
+      JMLR 2024 (parts at NIPS 2023, ICLR 2024, CPAL 2024)<br>
+      <a href="https://arxiv.org/abs/2311.13110">Paper</a> | <a href="https://github.com/Ma-Lab-Berkeley/CRATE">Code</a></p>
+      <p><strong>Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs</strong><br/>
+      <a href="https://arxiv.org/abs/2410.13835">Paper</a> | <a href="https://github.com/GuoTianYu2000/Active-Dormant-Attention">Code</a>
+      </p>
+    </td>
+    <td style="border: none; width: 50%; vertical-align: top;">
+      <p><strong>Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction</strong><br>
+      ICLR 2025 (Spotlight)<br>
+      <a href="https://arxiv.org/abs/2412.17810">Paper</a> | <a href="https://github.com/ma-lab-berkeley/token-statistics-transformer">Code</a></p>
+      <p><strong>Simplifying DINO via Coding Rate Regularization</strong><br/>
+      <a href="https://arxiv.org/abs/2502.10385">Paper</a> | <a href="https://github.com/RobinWu218/SimDINO">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <!-- Recent Updates
 =====
 - (February 2025) Our papers [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385), [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835), and <u>Attention-Only Transformers via Unrolled Subspace Denoising</u> were accepted to CPAL 2025 (non-archival track).
