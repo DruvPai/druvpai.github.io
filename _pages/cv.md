@@ -43,6 +43,7 @@ Discussed in more detail in my [teaching page](./teaching.md).
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
 - Reviewer for the following publication venues:
   - Conferences and Workshops
+    - ICML 2025
     - AISTATS 2025
     - CPAL 2025
     - ICLR 2025 
