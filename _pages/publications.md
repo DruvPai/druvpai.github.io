@@ -7,25 +7,30 @@ author_profile: true
 
 ---
 
+<u>On the Edge of Memorization in Diffusion Models</u>
+<br> Sam Buchanan\*, **Druv Pai**\*, Yi Ma, Valentin De Bortoli
+<br> <i>In review at NeurIPS 2025</i>
+
+---
+
 [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
 <br> Ziyang Wu, Jingyuan Zhang, **Druv Pai**, XuDong Wang, Chandan Singh, Jianwei Yang, Jianfeng Gao, Yi Ma
-<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
+<br> <i>Accepted at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
 <br> [project website](https://robinwu218.github.io/SimDINO/) - [code](https://github.com/RobinWu218/SimDINO)
-
 
 --- 
 
 
 [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835)
 <br> Tianyu Guo, **Druv Pai**, Yu Bai, Jiantao Jiao, Michael Jordan, Song Mei
-<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track), accepted <b>(oral)</b> at NeurIPS M3L Workshop 2024</i>
+<br> <i>Accepted at CPAL 2025 (non-archival track), accepted <b>(oral)</b> at NeurIPS M3L Workshop 2024</i>
 <br> [code](https://github.com/GuoTianYu2000/Active-Dormant-Attention)
 
 ---
 
-<u>Attention-Only Transformers via Unrolled Subspace Denoising</u>
+[Attention-Only Transformers via Unrolled Subspace Denoising](https://arxiv.org/abs/2506.03790)
 <br> Peng Wang, Yifu Lu, Yaodong Yu, **Druv Pai**, Qing Qu, Yi Ma
-<br> <i>In review at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
+<br> <i>Accepted at ICML 2025, accepted at CPAL 2025 (non-archival track)</i>
 
 ---
 

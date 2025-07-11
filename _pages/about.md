@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley.
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I'm currently a Student Researcher at [Google Research](https://research.google/); last year I interned at [Nexusflow](https://nexusflow.ai/).
 
 My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
 
@@ -27,7 +27,7 @@ My research interests broadly lie in <b>developing principled methodology for la
       <li>highly self-sufficient;</li>
       <li>able to read and understand deep learning papers;</li>
       <li>comfortable with advanced linear algebra and probability;</li>
-      <li>proficient with either PyTorch (preferred) or Jax.</li>
+      <li>proficient with either PyTorch or Jax.</li>
     </ul>
     Thank you for your understanding.
     <br/>

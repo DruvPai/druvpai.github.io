@@ -13,18 +13,19 @@ redirect_from:
 * B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 
 ## Industry Experience
-* Summer 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
+* Summer 2025: Student Researcher @ [Google Research](https://research.google/)
+* Summer 2024, Fall 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
 * Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
 * Summer 2019: Machine Learning Engineer Intern @ [SymphonyAI](https://www.symphonyai.com/)
-  
+
 ## Programming Languages, Frameworks, and Tools
-* Python, Java, C++, C, x86, Julia
+* Python, Java, C++, C, x86
 * [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch)
 * Git, Linux, \*sh
 
 ## Publications
 Discussed in more detail in my [publications page](./publications.md).
-  
+
 ## Invited Talks, Presentations, and Posters
 - Presented on "White-Box Transformers, Structured Denoising-Diffusion, and Closed-Loop Transcription" @ [ICASSP 2024 Tutorials](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut25), April 14, 2024.
 - Presented on "White-Box Transformers and Closed-Loop Transcription" @ Laplace Reading Group, [Google DeepMind](https://research.google/), April 11, 2024.
@@ -34,26 +35,27 @@ Discussed in more detail in my [publications page](./publications.md).
 
 NB: This section only has talks, presentations, and posters not disclosed in my [publications page](./publications.md).
 
-  
+
 ## Teaching
 Discussed in more detail in my [teaching page](./teaching.md).
-  
+
 ## Service, Leadership, Outreach
 - Participated in the BAIR Undergraduate Mentorship Program, Fall 2023.
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
 - Reviewer for the following publication venues:
   - Conferences and Workshops
+    - NeurIPS 2025
     - ICML 2025
-    - AISTATS 2025
+    - AISTATS 2025 (Best Reviewer)
     - CPAL 2025
-    - ICLR 2025 
+    - ICLR 2025 (Notable Reviewer)
     - NeurIPS 2024
     - NeurIPS 2024 Workshops: M3L, SciForDL
     - ICML 2024
   - Journals
     - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
 
-## Awards 
-- UC Berkeley College of Engineering Fellowship, 2023, 2024.
+## Awards
+- UC Berkeley College of Engineering Fellowship, 2023 -- Present.
 
 NB: This section only has awards not disclosed in my [publications page](./publications.md) or [teaching page](./teaching.md).
