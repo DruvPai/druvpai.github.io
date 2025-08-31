@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I'm currently a Student Researcher at [Google Research](https://research.google/); last year I interned at [Nexusflow](https://nexusflow.ai/).
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I recently finished a Student Researcher position at [Google Research](https://research.google/); last year I interned at [Nexusflow](https://nexusflow.ai/).
 
 My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
 
@@ -42,20 +42,24 @@ Selected Recent Work
 <table style="border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%; vertical-align: top;">
-      <p><strong>White-Box Transformers via Sparse Rate Reduction: Compression is all There Is?</strong><br>
-      JMLR 2024 (parts at NIPS 2023, ICLR 2024, CPAL 2024)<br>
-      <a href="https://arxiv.org/abs/2311.13110">Paper</a> | <a href="https://github.com/Ma-Lab-Berkeley/CRATE">Code</a></p>
-      <p><strong>Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs</strong><br/>
-      <a href="https://arxiv.org/abs/2410.13835">Paper</a> | <a href="https://github.com/GuoTianYu2000/Active-Dormant-Attention">Code</a>
-      </p>
+      <p><strong>Learning Deep Representations of Data Distributions</strong><br/>
+      Open-Source Textbook<br/>
+      <a href="https://ma-lab-berkeley.github.io/deep-representation-learning-book/">Website</a> | <a href="https://github.com/Ma-Lab-Berkeley/deep-representation-learning-book">GitHub</a></p>
+      <p><strong>Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction</strong><br/>
+      ICLR 2025 (Spotlight)<br/>
+      <a href="https://arxiv.org/abs/2412.17810">Paper</a> | <a href="https://github.com/ma-lab-berkeley/token-statistics-transformer">Code</a></p>
+      <p><strong>On the Edge of Memorization in Diffusion Models</strong><br/>
+      <a href="https://arxiv.org/abs/2508.17689">Paper</a> | <a href="https://github.com/DruvPai/diffusion_mem_gen">Code</a></p>
     </td>
     <td style="border: none; width: 50%; vertical-align: top;">
-      <p><strong>Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction</strong><br>
-      ICLR 2025 (Spotlight)<br>
-      <a href="https://arxiv.org/abs/2412.17810">Paper</a> | <a href="https://github.com/ma-lab-berkeley/token-statistics-transformer">Code</a></p>
+      <p><strong>White-Box Transformers via Sparse Rate Reduction: Compression is all There Is?</strong><br/>
+      JMLR 2024 (parts at NIPS 2023, ICLR 2024, CPAL 2024)<br/>
+      <a href="https://arxiv.org/abs/2311.13110">Paper</a> | <a href="https://github.com/Ma-Lab-Berkeley/CRATE">Code</a></p>
       <p><strong>Simplifying DINO via Coding Rate Regularization</strong><br/>
-      <a href="https://arxiv.org/abs/2502.10385">Paper</a> | <a href="https://github.com/RobinWu218/SimDINO">Code</a>
-      </p>
+      ICML 2025<br/>
+      <a href="https://arxiv.org/abs/2502.10385">Paper</a> | <a href="https://github.com/RobinWu218/SimDINO">Code</a></p>
+      <p><strong>Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs</strong><br/>
+      <a href="https://arxiv.org/abs/2410.13835">Paper</a> | <a href="https://github.com/GuoTianYu2000/Active-Dormant-Attention">Code</a></p>
     </td>
   </tr>
 </table>
@@ -63,6 +67,8 @@ Selected Recent Work
 
 <!-- Recent Updates
 =====
+- (August 2025) Our new open-source textbook [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/) was released.
+- (May 2025) Our paper [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385) was accepted to ICML 2025.
 - (February 2025) Our papers [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385), [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835), and <u>Attention-Only Transformers via Unrolled Subspace Denoising</u> were accepted to CPAL 2025 (non-archival track).
 - (January 2025) Our paper [Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction](https://arxiv.org/abs/2412.17810) was accepted (spotlight) to [ICLR 2025](https://iclr.cc/).
 - (September 2024) Our paper [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835) was accepted (oral) to [NeurIPS 2024 M3L Workshop](https://sites.google.com/view/m3l-2024/).
