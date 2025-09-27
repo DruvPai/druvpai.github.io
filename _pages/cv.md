@@ -13,6 +13,7 @@ redirect_from:
 * B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 
 ## Industry Experience
+* Fall 2025: Student Researcher @ [Google DeepMind](https://deepmind.google/)
 * Summer 2025: Student Researcher @ [Google Research](https://research.google/)
 * Summer 2024, Fall 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
 * Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
@@ -20,7 +21,7 @@ redirect_from:
 
 ## Programming Languages, Frameworks, and Tools
 * Python, Java, C++, C, x86
-* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch)
+* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch) and assorted libraries [[1]](https://huggingface.co/docs/transformers/en/index) [[2]](https://huggingface.co/docs/diffusers/en/index) [[3]](https://docs.vllm.ai/en/latest/) [[4]](https://www.deepspeed.ai/) [[5]](https://lightning.ai/docs/pytorch/stable/)
 * Git, Linux, \*sh
 
 ## Publications
