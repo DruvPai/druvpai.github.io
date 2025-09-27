@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) and [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I recently finished a Student Researcher position at [Google Research](https://research.google/); last year I interned at [Nexusflow](https://nexusflow.ai/).
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/), and [Prof. Jason Lee](https://people.eecs.berkeley.edu/~jasondlee/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I'm currently in a Student Researcher position at [Google DeepMind](https://deepmind.google/), and have also worked at [Google Research](https://research.google/) and [NexusFlow](https://nexusflow.ai/) (recently acquired by [Nvidia](https://www.nvidia.com)). 
 
 My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
 
@@ -67,6 +67,7 @@ Selected Recent Work
 
 <!-- Recent Updates
 =====
+- (September 2025) We gave a tutorial on Learning Deep Representations of Data Distributions at [IAISS 2025](https://2025.iaiss.cc)..
 - (August 2025) Our new open-source textbook [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/) was released.
 - (May 2025) Our paper [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385) was accepted to ICML 2025.
 - (February 2025) Our papers [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385), [Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs](https://arxiv.org/abs/2410.13835), and <u>Attention-Only Transformers via Unrolled Subspace Denoising</u> were accepted to CPAL 2025 (non-archival track).

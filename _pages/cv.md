@@ -27,6 +27,7 @@ redirect_from:
 Discussed in more detail in my [publications page](./publications.md).
 
 ## Invited Talks, Presentations, and Posters
+- Presented on "Learning Deep Representations of Data Distributions" @ [IAISS 2025](https://2025.iaiss.cc), September 22, 2025.
 - Presented on "White-Box Transformers, Structured Denoising-Diffusion, and Closed-Loop Transcription" @ [ICASSP 2024 Tutorials](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut25), April 14, 2024.
 - Presented on "White-Box Transformers and Closed-Loop Transcription" @ Laplace Reading Group, [Google DeepMind](https://research.google/), April 11, 2024.
 - Presented on "White-Box Transformers" @ [MoDL Annual Meeting](https://www.simonsfoundation.org/event/mathematical-and-scientific-foundations-of-deep-learning-annual-meeting-2023/), September 28-29, 2023.
@@ -44,6 +45,7 @@ Discussed in more detail in my [teaching page](./teaching.md).
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
 - Reviewer for the following publication venues:
   - Conferences and Workshops
+    - ICLR 2025
     - NeurIPS 2025
     - ICML 2025
     - AISTATS 2025 (Best Reviewer)

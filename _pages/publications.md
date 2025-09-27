@@ -17,7 +17,7 @@ author_profile: true
 
 [On the Edge of Memorization in Diffusion Models](https://arxiv.org/abs/2508.17689)
 <br> Sam Buchanan\*, **Druv Pai**\*, Yi Ma, Valentin De Bortoli
-<br> <i>In review at NeurIPS 2025</i>
+<br> <i>Accepted at NeurIPS 2025</i>
 <br> [code](https://github.com/DruvPai/diffusion_mem_gen)
 
 ---
