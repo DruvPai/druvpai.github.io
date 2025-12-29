@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/), and [Prof. Jason Lee](https://jasondlee88.github.io/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I'm currently in a Student Researcher position at [Google DeepMind](https://deepmind.google/), and have also worked at [Google Research](https://research.google/) and [NexusFlow](https://nexusflow.ai/) (recently acquired by [Nvidia](https://www.nvidia.com)). 
+Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/), and [Prof. Jason Lee](https://jasondlee88.github.io/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I've previously worked at [Google DeepMind](https://deepmind.google/), [Google Research](https://research.google/), and [NexusFlow](https://github.com/nexusflowai) (recently acquired by [Nvidia](https://www.nvidia.com)). 
 
 My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
 
+<b>I'm currently on the industry job market; please feel free to contact me if there is a potential fit with your team. Thank you in advance!</b>
 
 <details>
     <summary><u>Notes for undergraduate and masters students.</u></summary>
@@ -21,7 +22,7 @@ My research interests broadly lie in <b>developing principled methodology for la
     <br/>
     <br/>
 
-    <i>Note 2:</i> If you are interested in working with me on deep learning research, please send me an email with your background and specific interests (the more detailed, the better). Please mention what you would like to work on. Please include "[Research Collaboration Request]" in your email title. The ideal candidate is:
+    <i>Note 2:</i> If you're interested in working with me on deep learning research, please send me an email with your background and specific interests (the more detailed, the better). Please mention what you would like to work on. Please include "[Research Collaboration Request]" in your email title. The ideal candidate is:
     <ul>
       <li>able and willing to invest at least 15 hours per week;</li>
       <li>highly self-sufficient;</li>
@@ -33,7 +34,7 @@ My research interests broadly lie in <b>developing principled methodology for la
     <br/>
     <br/>
 
-    <i>PS:</i> I get many serious inquiries about advising chats or potential research collaborations. I try my best to reply to every single one of them. If you don't see a reply after, say, a week, feel free to bump the email thread. In return, if you're writing to ask for a research collaboration, please seriously think about whether you are interested in the work and are willing to invest time on it.
+    <i>PS:</i> I get many serious inquiries about advising chats or potential research collaborations. I try my best to reply to every single one of them. If you don't see a reply after, say, a week, feel free to bump the email thread. In return, if you're writing to ask for a research collaboration, please seriously think about whether you're interested in the work and willing to invest time on it.
 </details>
 <br/>
 
