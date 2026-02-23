@@ -12,8 +12,6 @@ Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu),
 
 My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
 
-<b>I'm currently on the industry job market; please feel free to contact me if there is a potential fit with your team. Thank you in advance!</b>
-
 <details>
     <summary><u>Notes for undergraduate and masters students.</u></summary>
     <br/>
@@ -22,19 +20,7 @@ My research interests broadly lie in <b>developing principled methodology for la
     <br/>
     <br/>
 
-    <i>Note 2:</i> If you're interested in working with me on deep learning research, please send me an email with your background and specific interests (the more detailed, the better). Please mention what you would like to work on. Please include "[Research Collaboration Request]" in your email title. The ideal candidate is:
-    <ul>
-      <li>able and willing to invest at least 15 hours per week;</li>
-      <li>highly self-sufficient;</li>
-      <li>able to read and understand deep learning papers;</li>
-      <li>comfortable with advanced linear algebra and probability;</li>
-      <li>proficient with either PyTorch or Jax.</li>
-    </ul>
-    Thank you for your understanding.
-    <br/>
-    <br/>
-
-    <i>PS:</i> I get many serious inquiries about advising chats or potential research collaborations. I try my best to reply to every single one of them. If you don't see a reply after, say, a week, feel free to bump the email thread. In return, if you're writing to ask for a research collaboration, please seriously think about whether you're interested in the work and willing to invest time on it.
+    <i>Note 2:</i> I am currently wrapping up my ongoing research projects and making a transition to industry, so I do not have additional bandwidth to mentor new undergraduate or masters student collaborators over an extended period of time. Thank you for your understanding.
 </details>
 <br/>
 
