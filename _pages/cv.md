@@ -8,26 +8,32 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2023 - ?
-* M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
-* B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
+
+- Ph.D in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2023 - Fall 2026 (expected), GPA 4.0/4.0
+- M.S. in EECS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2022 - Spring 2023, GPA 4.0/4.0
+- B.A. in CS @ [UC Berkeley](https://eecs.berkeley.edu/), Fall 2018 - Spring 2022, GPA 4.0/4.0
 
 ## Industry Experience
-* Fall 2025: Student Researcher @ [Google DeepMind](https://deepmind.google/)
-* Summer 2025: Student Researcher @ [Google Research](https://research.google/)
-* Summer 2024, Fall 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
-* Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
-* Summer 2019: Machine Learning Engineer Intern @ [SymphonyAI](https://www.symphonyai.com/)
+
+- Spring 2026 Onward: Member of Technical Staff @ [Thinking Machines Lab](thinkingmachines.ai)
+- Fall 2025: Student Researcher @ [Google DeepMind](https://deepmind.google/)
+- Summer 2025: Student Researcher @ [Google Research](https://research.google/)
+- Summer 2024, Fall 2024: Machine Learning Researcher Intern @ [NexusFlow](https://nexusflow.ai/)
+- Summer 2020, Summer 2021: Software Engineering Intern @ [Amazon](https://www.amazon.com/)
+- Summer 2019: Machine Learning Engineer Intern @ [SymphonyAI](https://www.symphonyai.com/)
 
 ## Programming Languages, Frameworks, and Tools
-* Python, Java, C++, C, x86
-* [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch) and assorted libraries [[1]](https://huggingface.co/docs/transformers/en/index) [[2]](https://huggingface.co/docs/diffusers/en/index) [[3]](https://docs.vllm.ai/en/latest/) [[4]](https://www.deepspeed.ai/) [[5]](https://lightning.ai/docs/pytorch/stable/)
-* Git, Linux, \*sh
+
+- Python, Java, C++, C, x86
+- [Jax](https://github.com/google/jax) and assorted libraries [[1]](https://github.com/google/flax) [[2]](https://github.com/google-deepmind/optax) [[3]](https://github.com/patrick-kidger/equinox) [[4]](https://github.com/patrick-kidger/diffrax), [PyTorch](https://github.com/pytorch/pytorch) and assorted libraries [[1]](https://huggingface.co/docs/transformers/en/index) [[2]](https://huggingface.co/docs/diffusers/en/index) [[3]](https://docs.vllm.ai/en/latest/) [[4]](https://www.deepspeed.ai/) [[5]](https://lightning.ai/docs/pytorch/stable/)
+- Git, Linux, \*sh
 
 ## Publications
+
 Discussed in more detail in my [publications page](./publications.md).
 
 ## Invited Talks, Presentations, and Posters
+
 - Presented on "Learning Deep Representations of Data Distributions" @ [IAISS 2025](https://2025.iaiss.cc), September 22, 2025.
 - Presented on "White-Box Transformers, Structured Denoising-Diffusion, and Closed-Loop Transcription" @ [ICASSP 2024 Tutorials](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut25), April 14, 2024.
 - Presented on "White-Box Transformers and Closed-Loop Transcription" @ Laplace Reading Group, [Google DeepMind](https://research.google/), April 11, 2024.
@@ -37,11 +43,12 @@ Discussed in more detail in my [publications page](./publications.md).
 
 NB: This section only has talks, presentations, and posters not disclosed in my [publications page](./publications.md).
 
-
 ## Teaching
+
 Discussed in more detail in my [teaching page](./teaching.md).
 
 ## Service, Leadership, Outreach
+
 - Participated in the BAIR Undergraduate Mentorship Program, Fall 2023.
 - Served on organizing committee for [THEORINET](https://www.minds.jhu.edu/theorinet/) Retreat 2023.
 - Reviewer for the following publication venues:
@@ -59,6 +66,7 @@ Discussed in more detail in my [teaching page](./teaching.md).
     - [IEEE JSTSP](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines/ieee-jstsp-special-issue-seeking-low-dimensionality-deep-neural-networks-slowdnn)
 
 ## Awards
+
 - UC Berkeley College of Engineering Fellowship, 2023 -- Present.
 
 NB: This section only has awards not disclosed in my [publications page](./publications.md) or [teaching page](./teaching.md).

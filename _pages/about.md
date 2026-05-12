@@ -3,14 +3,14 @@ permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu), where I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/), and [Prof. Jason Lee](https://jasondlee88.github.io/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I've previously worked at [Google DeepMind](https://deepmind.google/), [Google Research](https://research.google/), and [NexusFlow](https://github.com/nexusflowai) (recently acquired by [Nvidia](https://www.nvidia.com)). 
+Hi! I'm a Member of Technical Staff at [Thinking Machines Lab](http://thinkingmachines.ai/), and Ph.D. student in [EECS at UC Berkeley](https://www.eecs.berkeley.edu). In academia, I'm fortunate to be advised by [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/), and [Prof. Jason Lee](https://jasondlee88.github.io/). I'm affiliated with [BAIR](https://bair.berkeley.edu/) and supported by a UC Berkeley College of Engineering fellowship. Prior to my PhD, I completed a [BA in CS](https://www.eecs.berkeley.edu) and [MS in EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms), also at UC Berkeley. Outside of academia, I've previously worked at [Google DeepMind](https://deepmind.google/), [Google Research](https://research.google/), and [NexusFlow](https://github.com/nexusflowai) (recently acquired by [Nvidia](https://www.nvidia.com)).
 
-My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning and generalization.
+My research interests broadly lie in <b>developing principled methodology for large-scale deep learning</b>. I work to develop scientific and mathematical principles for deep learning, apply these principles to analyze, simplify, and improve existing methods, and build and scale new principled approaches. As such, my work tends to have a combination of theory, controlled experiments, and larger-scale experiments. I'm particularly interested in how the structure of high-dimensional data (including environmental feedback) interacts with deep learning methods, and how this impacts representation learning, generalization, and scaling laws.
 
 <details>
     <summary><u>Notes for undergraduate and masters students.</u></summary>
@@ -21,11 +21,12 @@ My research interests broadly lie in <b>developing principled methodology for la
     <br/>
 
     <i>Note 2:</i> I am currently wrapping up my ongoing research projects and making a transition to industry, so I do not have additional bandwidth to mentor new undergraduate or masters student collaborators over an extended period of time. Thank you for your understanding.
+
 </details>
 <br/>
 
-Selected Recent Work
-===
+# Selected Recent Work
+
 <table style="border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%; vertical-align: top;">
@@ -51,9 +52,8 @@ Selected Recent Work
   </tr>
 </table>
 
+# <!-- Recent Updates
 
-<!-- Recent Updates
-=====
 - (September 2025) We gave a tutorial on Learning Deep Representations of Data Distributions at [IAISS 2025](https://2025.iaiss.cc)..
 - (August 2025) Our new open-source textbook [Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/) was released.
 - (May 2025) Our paper [Simplifying DINO by Coding Rate Regularization](https://arxiv.org/abs/2502.10385) was accepted to ICML 2025.
